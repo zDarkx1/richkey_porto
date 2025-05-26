@@ -6,13 +6,13 @@ export default function Projects(){
         <div className="wrapper">
             <div className="md:pt-[50px] pt-[50px]">
                 <h1 className="text-[32px] font-semibold dark:text-white text-dark leading-9 font-display pb-5">Projects </h1>
-                <p className="text-[16px] font-normal pb-[20px]">Beberapa Proyek Yang pernah saya Kerjakan :</p>
+                <p className="text-[16px] font-normal pb-[20px]">Here are some projects I've worked on :</p>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-3 mb-3">
                     <div className="rounded-md hover:shadow-md border border-slate-200 cursor-pointer">
                         <img src="https://ik.imagekit.io/ez2pfjbvj/Inspector.png?updatedAt=1718876819593" alt="Inspector"/>
                         <div className="py-2 px-2">
-                            <h3 className="text-[16px] font-semibold font-body capitalize">inspector</h3>
-                            <p className="text-[12px] font-normal font-body">Pengembangan Aplikasi Inspector Kementrian ESDM</p>
+                            <h3 className="text-[16px] font-semibold font-body capitalize">LeafProj</h3>
+                            <p className="text-[12px] font-normal font-body">Plant desease detection with machine learning</p>
                         </div>
                         <ul className="flex flex-wrap gap-4 ml-2 relative -z-[999]">
                             <ToolTip text="Laravel">
