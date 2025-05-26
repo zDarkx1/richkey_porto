@@ -26,14 +26,14 @@ export default function Projects(){
                             </ToolTip>
                         </ul>
                         <div className="py-2 px-2">
-                            <a href="https://inspector-app.xyz" className="text-[12px] font-body font-medium">Show More </a>
+                            <a href="https://example.xyz" className="text-[12px] font-body font-medium">Show More </a>
                         </div>
                     </div>
                     <div className="rounded-md hover:shadow-md border border-slate-200 cursor-pointer">
                         <img src="https://ik.imagekit.io/ez2pfjbvj/Siswasnaker_1.png?updatedAt=1722417220978" alt="Inspector"/>
                         <div className="py-2 px-2">
-                            <h3 className="text-[16px] font-semibold font-body capitalize">siswasnaker</h3>
-                            <p className="text-[12px] font-normal font-body">Pengembangan Aplikasi Siswasnaker Kementrian Ketenagakerjaan</p>
+                            <h3 className="text-[16px] font-semibold font-body capitalize">comingsoon</h3>
+                            <p className="text-[12px] font-normal font-body">comingsoon</p>
                         </div>
                         <ul className="flex flex-wrap gap-4 ml-2 relative -z-[999]">
                             <ToolTip text="Laravel">
@@ -50,7 +50,7 @@ export default function Projects(){
                             </ToolTip>
                         </ul>
                         <div className="py-2 px-2">
-                            <a href="https://siswasnaker.adhyamitra.com/" className="text-[12px] font-body font-medium disabled:text-slate-50">Show More </a>
+                            <a href="https://example.com/" className="text-[12px] font-body font-medium disabled:text-slate-50">Show More </a>
                         </div>
                     </div>
                 </div>
