@@ -10,10 +10,14 @@ export default function Contact(){
         <div className="wrapper">
             <div className='md:pt-[50px] pt-[50px]'>
                 <h1 className="text-[32px] font-semibold dark:text-white text-dark leading-9 font-display pb-3">Contact </h1>
-                <p>Connect with me : </p>
+                <p>Terhubunglah Denganku : </p>
             </div>
             <div className="flex flex-row mt-[2em] items-center mb-[1em] gap-3">
             <p>Social Media: </p>
+                <ToolTip text="facebook">
+                <div className="rounded-full px-2 py-2 border border-slate-700 dark:border-slate-400">
+                    <a href="https://www.facebook.com/blank/" className="hover:text-blue-500"><CiFacebook className="w-6 h-6"/></a>
+                </div>
                 </ToolTip>
                 <ToolTip text="Twitter">
                 <div className="rounded-full px-2 py-2 border border-slate-700 dark:border-slate-400">
